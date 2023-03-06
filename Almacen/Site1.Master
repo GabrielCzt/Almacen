@@ -59,8 +59,9 @@
                              <a class="nav-link text-white-50" href="#"><i class="fas fa-shopping-cart me-1"></i>Carrito</a>                             
                          </div>
                          <div class="text-center">
+                             <asp:LoginName ID="LoginName1" runat="server" Font-Size="Small" CssClass="text-bg-warning"  />
                              <asp:LoginStatus ID="LoginStatus1" runat="server" Font-Size="Small" LoginText="Iniciar Sesión" LogoutText="Cerrar Sesión"
-                                  CssClass="btn btn-danger text-white-50"/>
+                                  CssClass="btn btn-danger text-white-50" OnLoggingOut="LoginStatus1_LoggingOut"/>
                              <%--<a class="btn btn-danger text-white-50">Iniciar Sesión</a>--%>
                              <a class="btn btn-danger text-white-50">Contacto</a>
                          </div>
@@ -71,7 +72,7 @@
                     <div class="row">                    
                         <div class="col-sm-3 col-md-3">
                             <div class="enlaces mt-2">
-                              <h4><a href="#">Registro</a> </h4>
+                              <h4><a href="<%=ResolveClientUrl("~/Registro.aspx")%>">Registro</a> </h4>
                             </div>
                             <div class="enlacedesplegable">
                                 <a data-bs-toggle="collapse" id="Admin" runat="server" visible="true" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">

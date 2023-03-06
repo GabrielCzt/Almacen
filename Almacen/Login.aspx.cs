@@ -1,13 +1,13 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.AspNet.Identity;
-using Microsoft.Owin.Security;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using Microsoft.Owin.Security;
+using System.Web.Security;
 
 namespace Almacen
 {
@@ -16,22 +16,21 @@ namespace Almacen
         string strRedirect;
         protected void Page_Load(object sender, EventArgs e)
         {
-
             if (!IsPostBack)
             {
                 bool permitido;
+                string strRedirect;
                 if (User.Identity.IsAuthenticated)
                 {
                     strRedirect = Request.QueryString["ReturnUrl"];
                     permitido = UrlAuthorizationModule.CheckUrlAccessForPrincipal(strRedirect, HttpContext.Current.User, "Get");
                     if (!permitido)
                     {
-                        Response.Redirect("~/Error_401.aspx");
+                        Response.Redirect("~/Error401.aspx");
                     }
                 }
             }
         }
-
         protected void Iniciar_Sesion_Click(object sender, EventArgs e)
         {
             //buscamos al usuario que se registroen la base de datos,
@@ -58,6 +57,7 @@ namespace Almacen
                 StatusText.Text = "Invalido nombre de usuario o password.";
                 LoginStatus.Visible = true;
             }
+
         }
     }
 }

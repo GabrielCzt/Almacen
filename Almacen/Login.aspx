@@ -2,7 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h4 style="font-size:medium">Iniciar Sesion</h4>
+
+<h4 style="font-size:medium">Iniciar Sesion</h4>
     <hr />
     <asp:PlaceHolder ID="LoginStatus" Visible="false" runat="server">
     <p>
@@ -11,6 +12,7 @@
     </asp:PlaceHolder>
     <div id="LoginForm">
         <div style="margin-bottom:10px">
+
             <asp:Label AssociatedControlID="UserName" runat="server">Usuario</asp:Label>
          <div>
         <asp:TextBox ID="UserName" runat="server"></asp:TextBox>
@@ -28,4 +30,5 @@
              <asp:Button ID="Iniciar_Sesion" runat="server" Text="Iniciar Sesion" OnClick="Iniciar_Sesion_Click"/>
         </div>
 </div>
+
 </asp:Content>

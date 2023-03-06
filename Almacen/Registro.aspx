@@ -2,7 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <div>
+
+     <div>
         <h4 style="font-size:medium">Registrar nuevo usuario:</h4>
         <hr />
         <p>
@@ -31,10 +32,11 @@
         </div>
         <div>
             <div>
-                <asp:Button ID="Registrar_Usuario" runat="server" Text="Registrar" OnClick="Registrar_Usuario_Click"/>
+                <asp:Button ID="Registrar_Usuario" runat="server" Text="Registrar" OnClick="Registrar_Usuario_Click" />
             </div>
         </div>
         <br />
         <br />
     </div>
+
 </asp:Content>

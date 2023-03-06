@@ -10,7 +10,6 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-
 namespace Almacen
 {
     public class Global : System.Web.HttpApplication
@@ -19,7 +18,7 @@ namespace Almacen
         {
             string[] ArrayRole = new string[5];
             DataTable Dt = new DataTable();
-            RolesUser rol =new  RolesUser();
+            RolesUser rol = new RolesUser();
             string id;
             if (HttpContext.Current.User != null)
             {
@@ -36,6 +35,8 @@ namespace Almacen
 
                     }
                     HttpContext.Current.User = new System.Security.Principal.GenericPrincipal(myIdentity, ArrayRole);
+
+
 
                 }
             }

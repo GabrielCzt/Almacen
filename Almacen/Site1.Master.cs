@@ -13,5 +13,11 @@ namespace Almacen
         {
 
         }
+        protected void LoginStatus1_LoggingOut(object sender, LoginCancelEventArgs e)
+        {
+            var athenticationManager = HttpContext.Current.GetOwinContext().Authentication;
+            athenticationManager.SignOut();
+            Response.Redirect("~/Index.aspx");
+        }
     }
 }

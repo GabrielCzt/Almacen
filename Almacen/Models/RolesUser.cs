@@ -8,13 +8,11 @@ using System.Web;
 
 namespace Almacen.Models
 {
-
     public class RolesUser
     {
         readonly string dbconexion;
         private string Error = "";
         SqlConnection Cn;
-
         public RolesUser()
         {
             dbconexion = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;

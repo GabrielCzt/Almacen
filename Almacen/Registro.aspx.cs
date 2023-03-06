@@ -1,12 +1,12 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.AspNet.Identity;
-using Microsoft.Owin.Security;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Microsoft.Owin.Security;
 
 namespace Almacen
 {
@@ -16,7 +16,6 @@ namespace Almacen
         {
 
         }
-
         protected void Registrar_Usuario_Click(object sender, EventArgs e)
         {
             //Default UserStore constructor uses the default connection string named: DefaultConnection
