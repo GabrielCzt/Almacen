@@ -1,0 +1,118 @@
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\Almacen.dll.config
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\Almacen.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\Almacen.pdb
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\csc.exe
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\csc.exe.config
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\csc.rsp
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\csi.exe
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\csi.exe.config
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\csi.rsp
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.AppContext.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Collections.Immutable.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Console.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Globalization.Calendars.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.IO.Compression.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.IO.FileSystem.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Net.Http.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Net.Sockets.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Reflection.Metadata.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.ValueTuple.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Xml.XPath.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\vbc.exe
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\vbc.exe.config
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\vbc.rsp
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\VBCSCompiler.exe
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\roslyn\VBCSCompiler.exe.config
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\obj\Debug\Almacen.csproj.AssemblyReference.cache
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\obj\Debug\Almacen.csproj.CopyComplete
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\obj\Debug\Almacen.dll
+E:\Trabajo\Moviles 2023\Web\Almacen\Almacen\obj\Debug\Almacen.pdb
+C:\Users\gabri\Documents\Almacen\Almacen\bin\Almacen.dll.config
+C:\Users\gabri\Documents\Almacen\Almacen\bin\Almacen.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\Almacen.pdb
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\csc.exe
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\csc.exe.config
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\csc.rsp
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\csi.exe
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\csi.exe.config
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\csi.rsp
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.AppContext.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Console.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.IO.Compression.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Net.Http.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.ValueTuple.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\vbc.exe
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\vbc.exe.config
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\vbc.rsp
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\VBCSCompiler.exe
+C:\Users\gabri\Documents\Almacen\Almacen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gabri\Documents\Almacen\Almacen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gabri\Documents\Almacen\Almacen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gabri\Documents\Almacen\Almacen\obj\Debug\Almacen.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Almacen\Almacen\obj\Debug\Almacen.csproj.CopyComplete
+C:\Users\gabri\Documents\Almacen\Almacen\obj\Debug\Almacen.dll
+C:\Users\gabri\Documents\Almacen\Almacen\obj\Debug\Almacen.pdb
